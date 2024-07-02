@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory
     ```bash
-    cd grocery-store-management
+    cd Grocery-Store-management
     ```
 
 3. Import the database
